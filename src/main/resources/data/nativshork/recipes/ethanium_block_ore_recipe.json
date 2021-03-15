@@ -1,0 +1,13 @@
+{
+  "group": "nativshork",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nativshork:ethanium_block"
+    }
+  ],
+  "result": {
+    "item": "nativshork:ethanium_ingot",
+    "count": 9
+  }
+}

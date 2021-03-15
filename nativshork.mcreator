@@ -1,0 +1,107 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "EthaniumIngot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ethanium_ingot"
+    },
+    {
+      "name": "EthaniumOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ethanium_ore"
+    },
+    {
+      "name": "EthaniumBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ethanium_block"
+    },
+    {
+      "name": "EthaniumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ethanium_ore_block_recipe"
+    },
+    {
+      "name": "EthaniumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ethanium_block_ore_recipe"
+    },
+    {
+      "name": "EthaniumOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ethanium_ore_smelting"
+    },
+    {
+      "name": "Ethan",
+      "type": "mob",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ethan"
+    },
+    {
+      "name": "TheNativShark",
+      "type": "mob",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_nativ_shark"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "entity.nativshork.ethan": "Ethan",
+      "item.nativshork.ethan_spawn_egg": "Ethan Spawn Egg",
+      "item.nativshork.the_nativ_shark_spawn_egg": "The Nativ Shark Spawn Egg",
+      "block.nativshork.ethanium_block": "Block of Ethanium",
+      "block.nativshork.ethanium_ore": "Ethanium Ore",
+      "item.nativshork.ethanium_ingot": "Ethanium",
+      "entity.nativshork.the_nativ_shark": "The Nativ Shark"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "nativshork",
+    "modName": "NativShork",
+    "version": "1.0.0",
+    "author": "chase, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "com.chasecondon.mc",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

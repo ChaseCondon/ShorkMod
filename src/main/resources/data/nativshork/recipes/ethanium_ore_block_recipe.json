@@ -1,0 +1,42 @@
+{
+  "group": "nativshork",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nativshork:ethanium_ingot"
+    },
+    "1": {
+      "item": "nativshork:ethanium_ingot"
+    },
+    "2": {
+      "item": "nativshork:ethanium_ingot"
+    },
+    "3": {
+      "item": "nativshork:ethanium_ingot"
+    },
+    "4": {
+      "item": "nativshork:ethanium_ingot"
+    },
+    "5": {
+      "item": "nativshork:ethanium_ingot"
+    },
+    "6": {
+      "item": "nativshork:ethanium_ingot"
+    },
+    "7": {
+      "item": "nativshork:ethanium_ingot"
+    },
+    "8": {
+      "item": "nativshork:ethanium_ingot"
+    }
+  },
+  "result": {
+    "item": "nativshork:ethanium_block",
+    "count": 1
+  }
+}
